@@ -398,7 +398,7 @@ operation:
           columnCounter: 25c88b71-45f7-448f-a94d-4dde3af0adc4
           stepCounter: dca916ec-553e-4619-8e80-f33c91df9054
         config: {}
-        dataType: ""
+        dataType: VARCHAR(44)
         defaultValue: ""
         description: ""
         keyColumnType: None
